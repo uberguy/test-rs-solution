@@ -1,0 +1,13 @@
+{
+    "ke\"y1" ; "value1",
+    "ke;y2": "value2",
+    "key3": [
+        "value3.1",
+        "value3.2"
+    ],
+    "key4\""; "value4",
+    "key5": {
+        ";\"key5.a": "value5.1",
+        "key5.b"; "value5.2"
+    }
+}
