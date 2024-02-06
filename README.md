@@ -30,7 +30,7 @@ I think I've coded a solution that meets the criteria outlined above, as I under
 
 ### Problems
 
-While cloning this repo I got an error related to the link to the large data set. Consequently I haven't tested this with a very large file. However, I included some test files that can be run with `cargo test`, and even thought they're small I think they exercise all reasonable instances of how this data can be corrected.
+While cloning this repo I got a 404 error related to the link to the large data set. Consequently I haven't tested this with a very large file. However, I included some test files that can be run with `cargo test`, and even thought they're small I think they exercise all reasonable instances of how this data can be corrected.
 
 ```
 Downloading data/test.json (1.0 GB)
